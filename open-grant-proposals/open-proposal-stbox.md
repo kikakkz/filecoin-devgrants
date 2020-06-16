@@ -1,12 +1,12 @@
 # Open Grant Proposal: `StBox - DropBox based on IPFS/FIL`
 
-**Name of Project:**
+**Name of Project:** StBox
 
-**Proposal Category:** Choose one of `core-dev`, `app-dev`, `devtools-libraries`, `technical-design`, `docs`
+**Proposal Category:** `app-dev`
 
-**Proposer:** `replace with your GitHub username`
+**Proposer:** `kikakkz@hotmail.com`
 
-**Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT and APACHE2 licenses?:** Please respond with either "Yes" or "No"
+**Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT and APACHE2 licenses?:** "Yes"
 
 # Project Description
 
