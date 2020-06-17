@@ -127,18 +127,17 @@ https://stbox.tech
 
 ## Relevant Experience
 
-Please describe (in words) your team's relevant experience, and why you think you are the right team to build this project. You can cite your team's prior experience in similar domains, doing similar dev work, individual team members' backgrounds, etc.
 StBox核心团队源于前云熵网络超大规模P2P音视频传输网络研发与实施团队，其工程师都来自于阿里、华为、PPTV、盛大创新院等头部
 云计算公司。StBox核心团队在云熵网络研发了基于喷泉码的大规模P2P音视频点播/直播/下载传输架构，在确保视频播放体验的前提下，
 帮助视频运营商将分发成本降低到CDN的10%以下。团队基于喷泉码研发的补发BBR可靠传输协议，有效解决不可靠节点之间的存储与传输
 可靠性问题，使得使用海量的家庭设备与家庭带宽提供优质可靠的音视频分发能力称为可能。
 
-Zhao KK：在云熵网络负责P2P音视频网络研发，并与运营商与设备厂商合作将其部署到数以百万记的家用设备
-Jin Xuelong：在云熵网络负责网络架构设计与节点数据分析
-Wang Zhengzhong：前爱立信资深通信工程师，在云熵网络负责可靠协议设计与实现
-Zeng Yuetian：前西门子、Intel资深测试工程师，在云熵网络负责系统与软件测试
-Qiu Junhua：在云熵网络负责可靠协议设计与实现，后在众安科技、同盾人工智能研究院进行AI系统研究
-Zhang Tao：在云熵网络负责系统产品设计与实现，后在NEO进行区块连应用开发、跨链开发
+- Zhao KK：在云熵网络负责P2P音视频网络研发，并与运营商与设备厂商合作将其部署到数以百万记的家用设备
+- Jin Xuelong：在云熵网络负责网络架构设计与节点数据分析
+- Wang Zhengzhong：前爱立信资深通信工程师，在云熵网络负责可靠协议设计与实现
+- Zeng Yuetian：前西门子、Intel资深测试工程师，在云熵网络负责系统与软件测试
+- Qiu Junhua：在云熵网络负责可靠协议设计与实现，后在众安科技、同盾人工智能研究院进行AI系统研究
+- Zhang Tao：在云熵网络负责系统产品设计与实现，后在NEO进行区块连应用开发、跨链开发
 
 ## Team code repositories
 
