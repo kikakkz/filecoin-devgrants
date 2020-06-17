@@ -6,7 +6,7 @@
 
 **Proposer:** `kikakkz@hotmail.com`
 
-**Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT and APACHE2 licenses?:** "Yes"
+**Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT and APACHE2 licenses?:** Yes
 
 # Project Description
 
@@ -36,44 +36,54 @@ StBox基于IPFS/FIL提供付费存储服务。运行良好的情况下，StBox�
 不完善导致付费用户数据丢失，引发纠纷。
 
 StBox及其支撑系统在技术上的难点主要有：
-１　我们希望能够同时提供FIL与法币支付渠道，但同时担心FIL价格的波动导致存储成本的波动
-２　家庭设备由于上行带宽有限，无法及时为时空证明提供足够的数据，也无法满足检索性能要求
-３　家庭网络到聚合节点之间的网络不稳定，导致数据无法及时传输到聚合节点，造成性能瓶颈
-４　家庭设备存储介质质量更差，其存储内容也更容易被数据清理软件破坏
+- 我们希望能够同时提供FIL与法币支付渠道，但同时担心FIL价格的波动导致存储成本的波动
+- 家庭设备由于上行带宽有限，无法及时为时空证明提供足够的数据，也无法满足检索性能要求
+- 家庭网络到聚合节点之间的网络不稳定，导致数据无法及时传输到聚合节点，造成性能瓶颈
+- 家庭设备存储介质质量更差，其存储内容也更容易被数据清理软件破坏
 
 ## Deliverables
 
-一个开源的客户端付费应用，其中包含
-- iOS，MAC，Windows，Android实现
-- 存储合约生成
-- 数据上传
-- 存储到期监控
-- 账单明细
-- 一键拍照存储
-- 本地存储空间出租
-- 设备登录/登出
+- 一个开源的客户端应用，其中包含
+  - iOS，MAC，Windows，Android实现
+  - 存储合约生成
+  - 数据上传
+  - 存储到期监控
+  - 账单明细
+  - 一键拍照存储
+  - 本地存储空间出租
+  - 设备登录/登出
 
-一个开源的存储节点应用，其中包含
-- Linux，OpenWRT实现
-- 支持节点存储分配
-- 支持节点数据检索
+- 一个开源的存储节点应用，其中包含
+  - Linux，OpenWRT实现
+  - 支持节点存储分配
+  - 支持节点数据检索
 
-一个开源的聚合节点服务，其中包含
-- 节点管理服务
-- 编码服务
-- 推送服务
-- 节点数据检索服务
-- 账单与分成系统
+- 一个开源的聚合节点服务，其中包含
+  - 节点管理服务
+  - 编码服务
+  - 推送服务
+  - 节点数据检索服务
+  - 账单与分成系统
+  - 节点聚合传输协议
 
 ## Development Roadmap
 
-Please break up your development work into a clear set of milestones. This section needs to be very detailed (will vary on the project, but aim for around 2 pages for this section).
-
-For each milestone, please describe:
-- The software functionality that we can expect after the completion of each milestone. This should be detailed enough that it can be used to ensure that the software meets the specification you outlined in the Deliverables.
-- How many people will be working on each milestone and their roles
-- The amount of funding required for each milestone
-- How much time this milestone will take to achieve (using real dates)
+| Milestone NO. | Milestone Description | People | Funding | Estimated Timeframe | Output |
+|---------------|-----------------------|--------|---------|---------------------|--------|
+| 1 | 厘清项目范围，完成业务架构设计 | 2 | TBD | 2周 | 需求规格说明书、IPFS/FIL应用白皮书、业务架构设计报告 |
+| 2 | 完成未决技术选型与技术架构设计 | 2 | TBD | 4周 | 技术调研报告、网络架构设计报告、业务角色交互设计报告 |
+| 3 | 完成产品设计 | 3 | TBD | 4周 |　产品人机界面原型 |
+| 4 | 完成基础喷泉码编解码库Ｃ实现 | 1 | TBD | 2周 | 可供应用开发使用的编解码库、单元测试代码、性能测试代码、应用参考代码、API文档 |
+| 5 | 完成喷泉码编解码库在X86和ARM平台的指令集优化 | 1 | TBD | 4周 | 编解码算法在不同体系结构的优化实现、单元测试代码、性能测试代码 |
+| 6 | 传输协议设计 | 4 | TBD | 6周 | 网络传输协议研究报告、拥塞算法研究报告、聚合传输协议状态机/报文/拥塞控制/适用场景设计报告 |
+| 7 | 传输协议实现 | 5 | TBD | 12周 | 可供应用开发使用的传输协议库、单元测试代码、性能测试代码、参开应用代码、测试报告、API文档 |
+| 8 | 应用架构设计与技术选型 | 2 | TBD | 4周 | 符合产品设计报告的应用架构设计报告、应用框架分析报告 |
+| 9 | 节点存储模型设计 | 2 | TBD | 1周 | 节点存储模型设计报告 |
+| 8 | Linux平台应用实现 | 5 | TBD | 8周 | 可以在各种Linux发行版编译运行或安装运行的数据存储/拍照存储/存储出租应用 |
+| 9 | Windows平台应用移植 | 2 | TBD | 2周 | 可以在Win 10系统编译运行或安装运行的数据存储/拍照存储/存储出租应用 |
+| 10 | Android系统应用实现 | 5 | TBD | 8周 | 可以在Android 8.0以上版本安装运行的数据存储/拍照存储/存储出租应用 |
+| 11 | iOS/Mac系统应用实现 | 5 | TBD | 10周 | 可以在iOS/Mac系统安装运行的数据存储/拍照存储/存储出租应用 |
+| 12 | Linux/OpenWRT系统聚合存储服务实现 | 3 | TBD | 3周 | 可以部署到家用设备节点的聚合存储服务 |
 
 ## Total Budget Requested
 
