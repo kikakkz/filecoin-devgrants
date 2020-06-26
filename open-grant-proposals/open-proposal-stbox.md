@@ -90,30 +90,41 @@ Total amount：$391,000
 
 ## Team Members
 
-- Team Member 1
-- Team Member 2
-- Team Member 3
-- ...
+- Zhao KK (Founder / Core Developer)
+- Jin Xuelong (Co-Founder / Architect)
+- Wang Zhengzhong (Co-Founder / Core Developer)
+- Zeng Yuetian (Co-Founder / Test Leader)
+- Qiu Junhua (Core Developer)
+- Zhang Tao (Core Developer)
 
 ## Team Member LinkedIn Profiles
 
-- Team Member 1 LinkedIn profile
-- Team Member 2 LinkedIn profile
-- Team Member 3 LinkedIn profile
-- ...
+- https://www.linkedin.com/in/owen-zhao-489a6815b/
+- https://www.linkedin.com/in/%E5%AD%A6%E9%BE%99-%E9%87%91-23b72493/
+- https://www.linkedin.com/in/%E6%AD%A3%E4%BB%B2-%E7%8E%8B-47238426/
+- https://www.linkedin.com/in/zengyuetian/
+-
+-
 
 ## Team Website
 
-Please link to your team's website here (make sure it's `https`)
+https://www.stbox.tech
 
 ## Relevant Experience
 
-Please describe (in words) your team's relevant experience, and why you think you are the right team to build this project. You can cite your team's prior experience in similar domains, doing similar dev work, individual team members' backgrounds, etc.
+The core team of StBox is originated from development team of Cloutropy, which provide high quality audio and video transport service based on large scale peer-to-peer network to audio and video provider. Engineers of the team are from the top internet and cloud technology company such as Alibaba, Huawei, PPTV, Shengda, etc. The team develop a large scale peer-to-peer infrastructure based on fountain codes to support VOD service, live stream, downloading. With the same QoS, the bandwidth cost of the peer-to-peer network is lower to 10% of CDN. The team adopt a special BBR as congestion control algorithm between peers. Such algorithm combines fountain code and BBR algorithm to solve the transport and storage issue which is caused by limited bandwidth and unstable storage of the peer. With the transport protocol, home devices can be used as edge of the content delivery with the same QoS as CDN edge server.
+
+- Zhao KK：Team leader and architect of Cloutropy peer-to-peer network, core developer, develop and deploy the service to millions home devices
+- Jin Xuelong：Architect of Cloutropy network, core developer, design the cloud architecture of peer monitor
+- Wang Zhengzhong：Used to be Staff software engineer of Ericsson, core developer of Cloutropy peer-to-peer network, design and implement reliable transport protocol
+- Zeng Yuetian：Used to be Staff test engineer of Simens, Intel, test leader of Cloutropy, test owner of peer-to-peer network
+- Qiu Junhua：Core developer of Cloutropy peer-to-peer network, design and implement reliable transport protocol
+- Zhang Tao：Product developer of Cloutropy, core developer of NEO
 
 ## Team code repositories
 
-Please provide links to your team's prior code repos for similar or related projects.
+https://github.com/kikakkz
 
 # Additional Information
 
-Please include any additional information that you think would be useful in helping us to evaluate your proposal.
+N/A
