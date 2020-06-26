@@ -69,11 +69,22 @@ When we executing our project, we may face the following problems and risks
 
 ## Total Budget Requested
 
-Sum up the total requested budget across all milestones, and include that figure here. Also, please include a budget breakdown to specify how you are planning to spend these funds.
+Total amount：$391,000
+| Item | Amount |
+|------|--------|
+| Salary for developers |$300000 |
+| Equipment for network debug | $50000 |
+| Cloud service | $10000 |
+| Application release and marketing | $31000 |
 
 ## Maintenance and Upgrade Plans
 
-Specify your team's long-term plans to maintain this software and upgrade it over time.
+- July 2021 Storage service Alpha test
+- November 2021 Alpha test of home device storage rental service
+- February 2021 Release and launch paid storage service
+- March 2021 Release and launch home device storage rental service
+
+`Note: StBox is a paid storage service application used by global users and create more value for Filecoin/IPFS network.`
 
 # Team
 
