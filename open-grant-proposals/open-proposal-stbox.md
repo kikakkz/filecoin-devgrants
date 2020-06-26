@@ -1,4 +1,4 @@
-# Open Grant Proposal: `StBox - DropBox based on IPFS/FIL`
+# Open Grant Proposal: `StBox - Storage application based on IPFS/FIL`
 
 **Name of Project:** StBox
 
@@ -57,6 +57,23 @@ For each milestone, please describe:
 - How many people will be working on each milestone and their roles
 - The amount of funding required for each milestone
 - How much time this milestone will take to achieve (using real dates)
+
+| Milestone NO. | Milestone Description | People | Roles | Funding | Estimated Timeframe | Output |
+|---------------|-----------------------|--------|-------|---------|---------------------|--------|
+| 1 | Clarify the scope of this project and design business architecture | 2 | Zhao KK: Requirement analysis and analysis on how to combine Stbox project with Filecoin/IPFS network in technical level<br>Jin Xuelong: Requirement analysis and business architecture design | $1000 | 2020/8/30 | 1) Requirement Specification; <br>2) StBox Whitepaper; <br>3) Application Business Architecture Report. |
+| 2 |
+| 3 |
+| 4 |
+| 5 |
+| 6 |
+| 7 |
+| 8 |
+| 9 |
+| 10 |
+| 11 |
+| 12 |
+| 13 |
+| 14 |
 
 ## Total Budget Requested
 
