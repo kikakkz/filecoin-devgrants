@@ -103,7 +103,7 @@ Total amount：$391,000
 - Jin Xuelong: https://www.linkedin.com/in/%E5%AD%A6%E9%BE%99-%E9%87%91-23b72493/
 - Wang Zhengzhong: https://www.linkedin.com/in/%E6%AD%A3%E4%BB%B2-%E7%8E%8B-47238426/
 - Zeng Yuetian: https://www.linkedin.com/in/zengyuetian/
-- Qiu Junhua: N/A
+- Qiu Junhua: https://www.linkedin.com/in/%E5%90%9B%E5%8D%8E-%E9%82%B1-9653911b1/
 - Zhang Tao: N/A
 
 ## Team Website
