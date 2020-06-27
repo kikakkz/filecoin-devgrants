@@ -99,12 +99,12 @@ Total amount：$391,000
 
 ## Team Member LinkedIn Profiles
 
-- https://www.linkedin.com/in/owen-zhao-489a6815b/
-- https://www.linkedin.com/in/%E5%AD%A6%E9%BE%99-%E9%87%91-23b72493/
-- https://www.linkedin.com/in/%E6%AD%A3%E4%BB%B2-%E7%8E%8B-47238426/
-- https://www.linkedin.com/in/zengyuetian/
--
--
+- Zhao KK: https://www.linkedin.com/in/owen-zhao-489a6815b/
+- Jin Xuelong: https://www.linkedin.com/in/%E5%AD%A6%E9%BE%99-%E9%87%91-23b72493/
+- Wang Zhengzhong: https://www.linkedin.com/in/%E6%AD%A3%E4%BB%B2-%E7%8E%8B-47238426/
+- Zeng Yuetian: https://www.linkedin.com/in/zengyuetian/
+- Qiu Junhua: N/A
+- Zhang Tao: N/A
 
 ## Team Website
 
