@@ -54,18 +54,18 @@ When we executing our project, we may face the following problems and risks
 |---------------|-----------------------|--------|-------|---------|---------------------|--------|
 | 1 | Clarify the scope of this project and design business architecture | 2 | Zhao KK: Requirement analysis and analysis on how to combine Stbox project with Filecoin/IPFS network in technical level<br>Jin Xuelong: Requirement analysis and business architecture design | $1000 | 2020/8/30 | 1) Requirement Specification; <br>2) StBox Whitepaper; <br>3) Application Business Architecture Report. |
 | 2 | Technology selection & technical architecture design | 2 | Wang Zhengzhong: & Zhao KK: Conducting a series of technology assessment & selection, designing Stbox technical architecture together | $2000 | 2020/9/20 | 1) Technical Research Report;<br>2) Network Architecture Report;<br>3) Interaction Design Report. |
-| 3 | Product Design | 2 | Zeng Yuetian & Qiu Junhua: UX prototype design | $5000 | 2020/9/30 | UX Prototype |
+| 3 | Product Design | 1 | Qiu Junhua: UX prototype design | $5000 | 2020/9/30 | UX Prototype |
 | 4 | C library of Fountain codes implementation | 1 | Wang Zhengzhong: C library of Fountain codes implementation | $8000 | 2020/10/15 | 1) Codec library;<br>2) unit test code;<br>3) performance test code;<br>4) application reference code;<br>5) API documentation |
 | 5 | Instruction optimization of Fountain Codes library on X86 and ARM platforms | 1 | Wang Zhengzhong: Instruction optimization of Fountain Codes library on X86 and ARM platforms | $12000 | 2020/11/15 | 1) Assembly code of Fountain codes library;<br>2) Unit test code;<br>3) Performance test code. |
 | 6 | Transport Protocol Design | 2 | Zhao KK: Transport protocol state machine design and packet design<br>Wang Zhengzhong: Build transport protocol network model and simulation environment | $40000 | 2020/11/15 | 1) Transport protocol design document;<br>2) Congestion control algorithm design document;<br>3) Protocol applicable scenario design document. |
 | 7 | Implementation of transport protocol | 5 | Zhao KK: Implementation of the state machine of the transport protocol library<br>Wang Zhengzhong: Implementation of congestion control algorithm of transport protocol<br>Qiu Junhua: Implementation of transport protocol packet<br>Jin Xuelong: Construction of the transport protocol hardware simulation environment<br>Zhang Tao: Implementation of transport protocol statistical and testing application | $100000 | 2021/2/15 | 1) Transport protocol library;<br>2) unit test code;<br>3) performance test code;<br>4) reference application code;<br>5) test report;<br>6) API documentation. |
 | 8 | Application architecture design and framework selection | 2 | Wang Zhengzhong: Technology selection of StBox application<br>Zhao KK: Application architecture design | $1000 | 2021/3/1 | 1) Application architecture design report;<br>2) Application framework analysis report.<br>Both reports need to be in line with UX prototype. |
 | 9 | Home device node storage model design | 1 | Jin Xuelong: Home device node storage model design | $2000 | 2021/3/1 | Home device node storage model design report |
-| 10 | Implementation of StBox application for Linux desktop platform | 5 | Zhao KK/Wang Zhengzhong/Qiu Junhua/Zhang Tao: Linux application development<br>Zeng Yuetian: Build test environment and system test | $50000 | 2021/5/1 | Application source code which could be compiled and run on Linux desktop with data storage, photo upload and storage rental. |
-| 11 | Porting application to Windows | 2 | Zhang Tao: Porting application to Windows<br>Zeng Yuetian: System test | $10000 | 2021/5/20 | Stbox featured with data storage, instant photo upload and home device storage rental, can be compiled, ran and install on Win 10. |
-| 12 | Development of StBox for Android | 5 | Zhao KK/Wang Zhengzhong/Qiu Junhua/Zhang Tao: Android Development of StBox for Android<br>Zeng Yuetian: Build test environment and system test | $70000 | 2021/7/1 | Stbox featured with data storage, instant photo upload and home device storage rental, can be compiled, ran and install on Android 8.0. |
-| 13 | Implementation of Stbox for iOS/Mac | 5 | Zhao KK/Wang Zhengzhong/Qiu Junhua/Zhang Tao: Implementation of StBox for iOS/Mac<br>Zeng Yuetian: Build test environment and system test | $70000 | 2021/10/1 | Stbox featured with data storage, instant photo upload and home device storage rental, can be compiled, ran and install on iOS/Mac. |
-| 14 | Implementation of storage service on Linux/OpenWrt | 4 | Wang Zhengzhong/Zhang Tao: Implementation of storage service on Linux/OpenWrt<br>Jin Xuelong: Multipath transport protocol verification<br>Zeng Yuetian: Build test environment and system test | $20000 | 2021/11/1 | Storage service deployed on home device |
+| 10 | Implementation of StBox application for Linux desktop platform | 4 | Zhao KK/Wang Zhengzhong/Qiu Junhua: Linux application development<br>Zhang Tao: Build test environment and system test | $50000 | 2021/5/1 | Application source code which could be compiled and run on Linux desktop with data storage, photo upload and storage rental. |
+| 11 | Porting application to Windows | 1 | Zhang Tao: Porting application to Windows<br>Zhang Tao: System test | $10000 | 2021/5/20 | Stbox featured with data storage, instant photo upload and home device storage rental, can be compiled, ran and install on Win 10. |
+| 12 | Development of StBox for Android | 4 | Zhao KK/Wang Zhengzhong/Qiu Junhua: Android Development of StBox for Android<br>Zhang Tao: Build test environment and system test | $70000 | 2021/7/1 | Stbox featured with data storage, instant photo upload and home device storage rental, can be compiled, ran and install on Android 8.0. |
+| 13 | Implementation of Stbox for iOS/Mac | 4 | Zhao KK/Wang Zhengzhong/Qiu Junhua: Implementation of StBox for iOS/Mac<br>Zhang Tao: Build test environment and system test | $70000 | 2021/10/1 | Stbox featured with data storage, instant photo upload and home device storage rental, can be compiled, ran and install on iOS/Mac. |
+| 14 | Implementation of storage service on Linux/OpenWrt | 3 | Wang Zhengzhong: Implementation of storage service on Linux/OpenWrt<br>Jin Xuelong: Multipath transport protocol verification<br>Zhang Tao: Build test environment and system test | $20000 | 2021/11/1 | Storage service deployed on home device |
 
 ## Total Budget Requested
 
@@ -93,7 +93,6 @@ Total amount：$391,000
 - Zhao KK (Founder / Core Developer)
 - Jin Xuelong (Co-Founder / Architect)
 - Wang Zhengzhong (Co-Founder / Core Developer)
-- Zeng Yuetian (Co-Founder / Test Leader)
 - Qiu Junhua (Core Developer)
 - Zhang Tao (Core Developer)
 
@@ -102,7 +101,6 @@ Total amount：$391,000
 - Zhao KK: https://www.linkedin.com/in/owen-zhao-489a6815b/
 - Jin Xuelong: https://www.linkedin.com/in/%E5%AD%A6%E9%BE%99-%E9%87%91-23b72493/
 - Wang Zhengzhong: https://www.linkedin.com/in/%E6%AD%A3%E4%BB%B2-%E7%8E%8B-47238426/
-- Zeng Yuetian: https://www.linkedin.com/in/zengyuetian/
 - Qiu Junhua: https://www.linkedin.com/in/%E5%90%9B%E5%8D%8E-%E9%82%B1-9653911b1/
 - Zhang Tao: N/A
 
@@ -117,7 +115,6 @@ The core team of StBox is originated from development team of Cloutropy, which p
 - Zhao KK：Team leader and architect of Cloutropy peer-to-peer network, core developer, develop and deploy the service to millions home devices
 - Jin Xuelong：Architect of Cloutropy network, core developer, design the cloud architecture of peer monitor
 - Wang Zhengzhong：Used to be Staff software engineer of Ericsson, core developer of Cloutropy peer-to-peer network, design and implement reliable transport protocol
-- Zeng Yuetian：Used to be Staff test engineer of Simens, Intel, test leader of Cloutropy, test owner of peer-to-peer network
 - Qiu Junhua：Core developer of Cloutropy peer-to-peer network, design and implement reliable transport protocol
 - Zhang Tao：Product developer of Cloutropy, core developer of NEO
 
